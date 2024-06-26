@@ -2,4 +2,4 @@
 - 👀 I’m interested to learning programming 
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web dev projects
-- contact with me on lokesh4274@gmail.com
+- contact with me on lokesh4274@outlook.com
